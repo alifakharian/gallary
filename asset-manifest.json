@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gallary/static/css/main.9e1e51d7.css",
+    "main.js": "/gallary/static/js/main.16affbc4.js",
+    "static/media/2.jpg": "/gallary/static/media/2.ca9dc2a1b8e4212bbf49.jpg",
+    "static/media/Times New Normal Regular.ttf": "/gallary/static/media/Times New Normal Regular.9b5d595607fafd5018b0.ttf",
+    "static/media/TheRadicoolsCasualRegular.otf": "/gallary/static/media/TheRadicoolsCasualRegular.e4f0fd07ce74185439fa.otf",
+    "index.html": "/gallary/index.html",
+    "main.9e1e51d7.css.map": "/gallary/static/css/main.9e1e51d7.css.map",
+    "main.16affbc4.js.map": "/gallary/static/js/main.16affbc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1e51d7.css",
+    "static/js/main.16affbc4.js"
+  ]
+}
