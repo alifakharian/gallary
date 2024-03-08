@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: title;
+  src: url(./TheRadicoolsCasualRegular.otf);
+}
+@font-face {
+  font-family: result;
+  src: url(./TheRadicoolsCasualRegular.otf);
+}
+@font-face {
+  font-family: title;
+  src: url(./Times\ New\ Normal\ Regular.ttf);
+}
+.title {
+  font-family: title;
+}
+.result {
+  font-family: title;
+}
+.main {
+  background-image: url("./img/2.jpg");
+  cursor: pointer;
+  background-size: cover;
+}
+@media (min-width: 775px) and (max-width: 1070px) {
+  .title {
+    font-size: 30px !important;
+  }
+}
+@media (min-width: 685px) and (max-width: 775px) {
+  .title {
+    font-size: 24px !important;
+  }
+}
+@media (min-width: 300px) and (max-width: 685px) {
+  .title {
+    font-size: 18px !important;
+  }
+}
